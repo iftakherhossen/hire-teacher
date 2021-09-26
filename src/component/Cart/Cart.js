@@ -2,14 +2,22 @@ import React from 'react';
 import './Cart.css'
 
 const Cart = (props) => {
-    const { name, subject, url, salary } = props.teacher;
+    const { cart } = props;
+
+    let total = 0;
+    let name = '';
+
+    for (const teacher of cart) {
+        total = total + teacher.salary;
+        name = name + " " + teacher.name + ',';
+    }
 
     return (
         <div>
-            <div className="cart-list">
-                <img src={url} alt="teacher" className="cart-img" />
-                <h2 className="name">{name}</h2>
-                <h2>{salary}</h2>
+            <h1>Teachers Hired: {props.cart.length}</h1>
+            <h2 className="cart-list">Teachers: {name}</h2>
+            <div className="total-budget">
+                <h1>Total Cost: {total}</h1>
             </div>
         </div>
     );

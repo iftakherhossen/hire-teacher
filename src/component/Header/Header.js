@@ -17,7 +17,7 @@ const Header = () => {
                 </div>
             </div>
             <div className="account-wrapper">
-                <h2>Budget: &nbsp;</h2>
+                <h2>Total Budget: &nbsp;</h2>
                 <h1>250 <small>K</small></h1>
                 {profileIcon}
                 <h2><a href="/profile/iftakher-hossen">Iftakher Hossen</a></h2>

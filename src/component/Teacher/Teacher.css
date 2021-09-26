@@ -8,6 +8,10 @@
 
 .teacher-img  {
     width: 100%;
+    margin-bottom: 0;
+}
+.name {
+    margin-top: 0;
 }
 .txt {
     margin-top: 6px;

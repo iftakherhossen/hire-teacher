@@ -5,6 +5,7 @@ import './Teachers.css';
 
 const Teachers = () => {
     const [teachers, setTeachers] = useState([]);
+    const [cart, setCart] = useState([]);
 
     useEffect(() => {
         fetch('./teachers.json')
@@ -12,8 +13,10 @@ const Teachers = () => {
             .then(data => setTeachers(data))
     }, []);
 
-    const handleHireBtn = teacher => {
-        
+
+    const handleHireBtn = (teacher) => {
+        const newCart = [...cart, teacher];
+        setCart(newCart);
     }
 
     return (
@@ -28,10 +31,7 @@ const Teachers = () => {
                 }
             </div>
             <div className="cart-wrapper">
-                <h1>Hired Teachers: {teachers.length}</h1>
-                {
-                    teachers.map(teacher => <Cart teacher={teacher}></Cart>)
-                }
+                <Cart cart={cart} teacher={teachers}></Cart>
             </div>
         </div>
     );

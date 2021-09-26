@@ -16,7 +16,7 @@ a:hover {
 }
 
 .name-wrapper {
-    width: 70%;
+    width: 65%;
     display: flex;
 }
 
@@ -42,7 +42,7 @@ a:hover {
 }
 
 .account-wrapper {
-    width: 30%;
+    width: 35%;
     display: flex;
     align-items: center;
     margin-right: auto;

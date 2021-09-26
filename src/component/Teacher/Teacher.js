@@ -22,7 +22,7 @@ const Teacher = (props) => {
                         <Card className="card">
                             <Card.Img variant="top" src={url} alt="Teacher" className="teacher-img" />
                             <Card.Body>
-                                <Card.Title><h1>{name}</h1></Card.Title>
+                                <Card.Title><h1 className="name">{name}</h1></Card.Title>
                                 <Card.Text>
                                     <h2 className="txt"><strong>{subject} <small>({degree}, {university})</small></strong></h2>
                                     <h2 className="txt">Salary: {salary}</h2>
@@ -33,7 +33,7 @@ const Teacher = (props) => {
                                             <a href="https://www.instagram.com/hossen_iftakher/">{instagramIcon}</a>
                                         </div>
                                         <div>
-                                            <button onClick="() => props.handleHireBtn(props.teacher">{plusIcon} Hire Now</button>
+                                            <button onClick={() => props.handleHireBtn(props.teacher)}>{plusIcon} Hire Now</button>
                                         </div>
                                     </div>
                                 </Card.Text>
