@@ -1,0 +1,63 @@
+.header {
+    padding: 2px 150px 5px;
+    color: white;
+    background-color: #003153;
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.name-wrapper {
+    width: 70%;
+    display: flex;
+}
+
+.logo {
+    width: 70px;
+    height: 70px;
+    padding-top: 10px;
+}
+
+.name h1 {
+    font-size: 50px;
+    margin-left: 20px;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.name p {
+    margin-top: 0;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.account-wrapper {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    text-align: right;
+}
+
+.account-wrapper h1 {
+    margin-right: 20px;
+}
+
+.account-wrapper .icon {
+    font-size: 32px;
+}
+
+.account-wrapper h2 {
+    padding-top: 4px;
+    padding-left: 6px;
+}

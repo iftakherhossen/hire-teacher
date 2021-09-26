@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "name": "Anika",
+        "subject": "Bangla",
+        "salary": 27000,
+        "url": "./images/female/female-1.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 2,
+        "name": "Altaf Hossen",
+        "subject": "Biology",
+        "salary": 33000,
+        "url": "./images/male/male-2.png",
+        "degree": "B.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 3,
+        "name": "Ashraful Alam",
+        "subject": "Math",
+        "salary": 30000,
+        "url": "./images/male/male-3.png",
+        "degree": "B.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 4,
+        "name": "Asadul Hoque",
+        "subject": "Librarian",
+        "salary": 25000,
+        "url": "./images/male/male-4.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 5,
+        "name": "Delowar Hossain",
+        "subject": "Agricultural Science",
+        "salary": 27000,
+        "url": "./images/male/male-5.png",
+        "degree": "M.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 6,
+        "name": "Farid Ahmed",
+        "subject": "History",
+        "salary": 30000,
+        "url": "./images/male/male-6.png",
+        "degree": "MA",
+        "university": "DU"
+    },
+    {
+        "id": 7,
+        "name": "Hafez Abdullah",
+        "subject": "Islam Studies",
+        "salary": 28000,
+        "url": "./images/male/male-6.png",
+        "degree": "MA",
+        "university": "DU"
+    },
+    {
+        "id": 8,
+        "name": "Hena Akter",
+        "subject": "English",
+        "salary": 37000,
+        "url": "./images/female/female-2.png",
+        "degree": "MA",
+        "university": "BUET"
+    },
+    {
+        "id": 9,
+        "name": "Hridoy",
+        "subject": "Accounting",
+        "salary": 29000,
+        "url": "./images/male/male-7.png",
+        "degree": "BS",
+        "university": "DU"
+    },
+    {
+        "id": 10,
+        "name": "Iftakher Hossen",
+        "subject": "ICT",
+        "salary": 35000,
+        "url": "./images/male/male-8.png",
+        "degree": "M.Sc",
+        "university": "BUET"
+    },
+    {
+        "id": 11,
+        "name": "Imdadul Hoque",
+        "subject": "Chemistry",
+        "salary": 39000,
+        "url": "./images/male/male-9.png",
+        "degree": "B.Sc",
+        "university": "BUET"
+    },
+    {
+        "id": 12,
+        "name": "Jahidul Islam",
+        "subject": "Bangla",
+        "salary": 30000,
+        "url": "./images/male/male-10.png",
+        "degree": "MA",
+        "university": "DU"
+    },
+    {
+        "id": 13,
+        "name": "Kamrul",
+        "subject": "English",
+        "salary": 32000,
+        "url": "./images/male/male-11.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 14,
+        "name": "Kushika Akter",
+        "subject": "History",
+        "salary": 28000,
+        "url": "./images/female/female-3.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 15,
+        "name": "Raj Chowdhury",
+        "subject": "Math",
+        "salary": 40000,
+        "url": "./images/male/male-1.png",
+        "degree": "M.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 16,
+        "name": "Rajia Sultana",
+        "subject": "Bangla",
+        "salary": 25000,
+        "url": "./images/female/female-4.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 17,
+        "name": "Rafia",
+        "subject": "Chemistry",
+        "salary": 34000,
+        "url": "./images/female/female-5.png",
+        "degree": "B.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 18,
+        "name": "Robiul",
+        "subject": "Chemistry",
+        "salary": 44000,
+        "url": "./images/male/male-13.png",
+        "degree": "M.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 19,
+        "name": "Roji Akter",
+        "subject": "Math",
+        "salary": 35000,
+        "url": "./images/female/female-6.png",
+        "degree": "B.Sc",
+        "university": "BUET"
+    },
+    {
+        "id": 20,
+        "name": "Sameer",
+        "subject": "Physics",
+        "salary": 32000,
+        "url": "./images/male/male-14.png",
+        "degree": "B.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 21,
+        "name": "Saleha",
+        "subject": "History",
+        "salary": 26000,
+        "url": "./images/female/female-7.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 22,
+        "name": "Salma Akter",
+        "subject": "Accounting",
+        "salary": 32000,
+        "url": "./images/female/female-8.png",
+        "degree": "BBA",
+        "university": "BUET"
+    },
+    {
+        "id": 23,
+        "name": "Sajeed",
+        "subject": "Physics",
+        "salary": 37000,
+        "url": "./images/male/male-15.png",
+        "degree": "B.Sc",
+        "university": "BUET"
+    },
+    {
+        "id": 24,
+        "name": "Salina Akter",
+        "subject": "Physics",
+        "salary": 42000,
+        "url": "./images/female/female-9.png",
+        "degree": "M.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 25,
+        "name": "Shafi Alam",
+        "subject": "ICT",
+        "salary": 32000,
+        "url": "./images/male/male-16.png",
+        "degree": "B.Sc",
+        "university": "BUET"
+    },
+    {
+        "id": 26,
+        "name": "Shantonu Rai",
+        "subject": "Biology",
+        "salary": 30000,
+        "url": "./images/male/male-17.png",
+        "degree": "B.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 27,
+        "name": "Sonia",
+        "subject": "English",
+        "salary": 28000,
+        "url": "./images/female/female-10.png",
+        "degree": "BA",
+        "university": "DU"
+    },
+    {
+        "id": 28,
+        "name": "Sriti",
+        "subject": "Biology",
+        "salary": 36000,
+        "url": "./images/female/female-11.png",
+        "degree": "M.Sc",
+        "university": "DU"
+    },
+    {
+        "id": 29,
+        "name": "Shewly Akter",
+        "subject": "Accounting",
+        "salary": 35000,
+        "url": "./images/female/female-12.png",
+        "degree": "MBA",
+        "university": "DU"
+    },
+    {
+        "id": 30,
+        "name": "Tahseen",
+        "subject": "ICT",
+        "salary": 30000,
+        "url": "./images/male/male-18.png",
+        "degree": "B.Sc",
+        "university": "BUET"
+    }
+]

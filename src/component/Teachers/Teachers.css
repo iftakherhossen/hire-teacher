@@ -1,0 +1,20 @@
+.wrapper {
+    padding: 20px 6%;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.teachers-wrapper {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5em;
+    padding: 1% 4% ;
+}
+
+.cart-wrapper {
+    padding: 0 20px;
+    border: 1px solid black;
+}
+.cart-wrapper h1 {
+    text-align: center;
+}

@@ -1,0 +1,47 @@
+.card {
+    background-color: skyblue;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px #003153;
+}
+
+.teacher-img  {
+    width: 100%;
+}
+.txt {
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+
+.sm-icon {
+    background-color: #003153;
+    padding: 4px 10px;
+    border: 0;
+    border-radius: 15px;
+}
+
+.icon {
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+}
+
+.btn-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 25px;
+    margin-bottom: -15px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #003153;
+    color: white;
+    border: 0;
+    border-radius: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+}
